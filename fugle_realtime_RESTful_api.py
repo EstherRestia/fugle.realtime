@@ -22,7 +22,7 @@ from datetime import datetime as dt
 import dash_table
 from dash.dependencies import Input, Output
 import dash_daq as daq
-
+import parse from dj_database_url
 
 # In[32]:
 

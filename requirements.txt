@@ -28,3 +28,9 @@ Werkzeug==0.8.3
 certifi==0.0.8
 chardet==1.0.1
 psycopg2==2.6.1
+Flask==1.1.1
+flask_cors==3.0.8
+flask_uploads==0.2.1
+scikit-learn==0.21
+opencv-python
+xgboost==0.90
